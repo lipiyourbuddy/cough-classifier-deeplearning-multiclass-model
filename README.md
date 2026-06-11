@@ -11,7 +11,7 @@ We used COUGHVID and Coswara datasets.
 
 - augment_all.py --> augmentation includes adding noise, time-stretch, pitch-shift, time-shift and random gain.
 
-- generate_spectrograms.py --> 
+- generate_spectrograms.py --> generates log-mel spectrograms with y-axis as frequency, x-axis as the time and colour grading as intensity. 
 
 - train_Model--> Training the proposed methods
 
