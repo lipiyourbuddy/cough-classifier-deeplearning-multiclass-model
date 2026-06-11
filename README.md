@@ -1,5 +1,5 @@
 # Multi-Class Cough Classifier
-A new method based on convolutional neural networks and deep feature extraction using pitch-shifting data augmentation for covid-19, asthma, other respiratory diseases and healthy.
+A new method based on convolutional neural networks and deep feature extraction using pitch-shifting data augmentation for covid-19, asthma, other respiratory diseases and healthy cough audio samples.
 
 We used COUGHVID and Coswara datasets.
 
